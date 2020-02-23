@@ -21,7 +21,8 @@ The Rebellion Report is a podcast about all things Star Wars. Listen to hear our
 <itunes:email>therebellionreport@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
-<itunes:category text="TV & Film"/>
+<itunes:category text="TV &amp; Film">
+</itunes:category>
 
 <!--<item>
 <title>EPISODE TITLE</title>
