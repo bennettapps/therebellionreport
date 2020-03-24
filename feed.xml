@@ -35,6 +35,36 @@
             <height>144</height>
         </image>
         <item>
+            <title>Too many Star Destroyers</title>
+            <itunes:title>Too many Star Destroyers</itunes:title>
+            <pubDate>Tues, 24 Mar 2020 12:26:16 -0500</pubDate>
+            <guid isPermaLink="false"></guid>
+            <description>
+                <![CDATA[
+                    <p>In this episode, Toby, Jesse, and Gracie talk about the plot, characters, and implications of the Rise of Skywalker.</p>
+                ]]>
+            </description>
+            <content:encoded>
+                <![CDATA[
+                    <p>DESCRIPTION</p>
+                ]]>
+            </content:encoded>
+            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_Eight_Final.mp3" length="53285681" type="audio/mpeg"/>
+            <itunes:subtitle>
+                DESCRIPTION
+            </itunes:subtitle>
+            <itunes:summary>
+                DESCRIPTION
+            </itunes:summary>
+            <itunes:author>The Rebellion Report</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>No</itunes:block>
+            <itunes:duration>37:00</itunes:duration>
+            <itunes:episode>8</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+        </item>
+        <item>
             <title>Baby Yoda..... need we say more?</title>
             <itunes:title>Baby Yoda..... need we say more?</itunes:title>
             <pubDate>Mon, 03 Feb 2020 12:19:16 -0500</pubDate>
