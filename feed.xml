@@ -23,6 +23,7 @@
         <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
         <itunes:category text="TV &amp; Film">
         </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
         
         <image>
             <url>
