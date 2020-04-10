@@ -3,7 +3,7 @@
         <title>The Rebellion Report</title>
         <link>https://therebellionreport.wixsite.com/home</link>
         <language>en-us</language>
-        <atom:link href="https://bennettapps.com/therebellionreport/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://www.bennettapps.com/therebellionreport/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright>The Rebellion Report</copyright>
         <itunes:subtitle>A High-School Star Wars Podcast</itunes:subtitle>
         <itunes:author>The Rebellion Report</itunes:author>
@@ -20,14 +20,14 @@
             <itunes:name>The Rebellion Report</itunes:name>
             <itunes:email>therebellionreport@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+        <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         <itunes:category text="TV &amp; Film">
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         
         <image>
             <url>
-                https://bennettapps.com/therebellionreport/logo.jpg
+                https://www.bennettapps.com/therebellionreport/logo.jpg
             </url>
             <title>The Rebellion Report</title>
             <link>https://therebellionreport.wixsite.com/home</link>
@@ -49,7 +49,7 @@
                     <p>In this episode, Toby, Jesse, and Gracie talk about the plot, characters, and implications of the Rise of Skywalker.</p>
                 ]]>
             </content:encoded>
-            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_Eight_Final.mp3" length="53285681" type="audio/mpeg"/>
+            <enclosure url="https://www.bennettapps.com/therebellionreport/mp3s/Podcast_Eight_Final.mp3" length="53285681" type="audio/mpeg"/>
             <itunes:subtitle>
                 In this episode, Toby, Jesse, and Gracie talk about the plot, characters, and implications of the Rise of Skywalker.
             </itunes:subtitle>
@@ -62,7 +62,7 @@
             <itunes:duration>37:00</itunes:duration>
             <itunes:episode>8</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+            <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         </item>
         <item>
             <title>Baby Yoda..... need we say more?</title>
@@ -79,7 +79,7 @@
                     <p>In this episode, Gracie talks about Baby Yoda, Baby Yoda, and more Baby Yoda. And Toby, Jesse, Stephen, and Jonathan get in a few passing remarks about the first seven episodes of the Disney+ live-action series, The Mandalorian.</p>
                 ]]>
             </content:encoded>
-            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_Seven_Final.mp3" length="71838862" type="audio/mpeg"/>
+            <enclosure url="https://www.bennettapps.com/therebellionreport/mp3s/Podcast_Seven_Final.mp3" length="71838862" type="audio/mpeg"/>
             <itunes:subtitle>
                 In this episode, Gracie talks about Baby Yoda, Baby Yoda, and more Baby Yoda. And Toby, Jesse, Stephen, and Jonathan get in a few passing remarks about the first seven episodes of the Disney+ live-action series, The Mandalorian.
             </itunes:subtitle>
@@ -92,7 +92,7 @@
             <itunes:duration>49:53</itunes:duration>
             <itunes:episode>7</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+            <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         </item>
         <item>
             <title>Palps, Threepio, and all that 60s jazz</title>
@@ -109,7 +109,7 @@
                     <p>In this episode, Toby, Jesse, Gracie, and Jonathan talk characters, settings, theories, and the final trailer for the Rise of Skywalker.</p> <p>Intro song: Goblins from mars Imperial March Remix: <a href='https://soundcloud.com/goblinsfrommars/star-wars-imperial-march-goblins-from-mars-trap-remix-free-download'>https://soundcloud.com/goblinsfrommars/star-wars-imperial-march-goblins-from-mars-trap-remix-free-download</a></p>
                 ]]>
             </content:encoded>
-            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_Six_Final.mp3" length="74838304" type="audio/mpeg"/>
+            <enclosure url="https://www.bennettapps.com/therebellionreport/mp3s/Podcast_Six_Final.mp3" length="74838304" type="audio/mpeg"/>
             <itunes:subtitle>
                 In this episode, Toby, Jesse, Gracie, and Jonathan talk characters, settings, theories, and the final trailer for the Rise of Skywalker. Intro song: Goblins from mars Imperial March Remix: https://soundcloud.com/goblinsfrommars/star-wars-imperial-march-g...
             </itunes:subtitle>
@@ -122,7 +122,7 @@
             <itunes:duration>51:57</itunes:duration>
             <itunes:episode>6</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+            <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         </item>
         <item>
             <title>Happy Hogan’s Star Wars</title>
@@ -139,7 +139,7 @@
                     <p class="p1">In this episode, we take a look at the teaser for The Mandalorian. This is the final episode of a three part series on the trailers released at Star Wars Celebration: Chicago.</p>
                 ]]>
             </content:encoded>
-            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_Five_Final.mp3" length="46099324" type="audio/mpeg"/>
+            <enclosure url="https://www.bennettapps.com/therebellionreport/mp3s/Podcast_Five_Final.mp3" length="46099324" type="audio/mpeg"/>
             <itunes:subtitle>
                 In this episode, we take a look at the teaser for The Mandalorian. This is the final episode of a three part series on the trailers released at Star Wars Celebration: Chicago.
             </itunes:subtitle>
@@ -152,7 +152,7 @@
             <itunes:duration>32:00</itunes:duration>
             <itunes:episode>5</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+            <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         </item>
         <item>
             <title>#thatsnotmybane</title>
@@ -169,7 +169,7 @@
                     <p class="p1">Summary: In this episode, we dive deep into the trailer for Star Wars: The Rise of Skywalker, revealed at Star Wars Celebration: Chicago. This is the second of a three-part series on the event.</p>
                 ]]>
             </content:encoded>
-            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_Four_Final.mp3" length="62014776" type="audio/mpeg"/>
+            <enclosure url="https://www.bennettapps.com/therebellionreport/mp3s/Podcast_Four_Final.mp3" length="62014776" type="audio/mpeg"/>
             <itunes:subtitle>
                 Summary: In this episode, we dive deep into the trailer for Star Wars: The Rise of Skywalker, revealed at Star Wars Celebration: Chicago. This is the second of a three-part series on the event.
             </itunes:subtitle>
@@ -182,7 +182,7 @@
             <itunes:duration>43:03</itunes:duration>
             <itunes:episode>4</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+            <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         </item>
         <item>
             <title>Freakin’ Ahsoka Tano!</title>
@@ -199,7 +199,7 @@
                     <p class="p1">In this episode, we go into the full-length trailer for Clone Wars Season 7 revealed at Star Wars Celebration: Chicago. This is the first of a three-part series on the event.</p>
                 ]]>
             </content:encoded>
-            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_Three_Final.mp3" length="58235818" type="audio/mpeg"/>
+            <enclosure url="https://www.bennettapps.com/therebellionreport/mp3s/Podcast_Three_Final.mp3" length="58235818" type="audio/mpeg"/>
             <itunes:subtitle>
                 In this episode, we go into the full-length trailer for Clone Wars Season 7 revealed at Star Wars Celebration: Chicago. This is the first of a three-part series on the event.
             </itunes:subtitle>
@@ -212,7 +212,7 @@
             <itunes:duration>40:25</itunes:duration>
             <itunes:episode>3</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+            <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         </item>
         <item>
             <title>Rogue Reviews!</title>
@@ -229,7 +229,7 @@
                     <p>In this episode, we go back and take a look at the standalone film Rogue One: A Star Wars Story</p>
                 ]]>
             </content:encoded>
-            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_Two_Final.mp3" length="42711148" type="audio/mpeg"/>
+            <enclosure url="https://www.bennettapps.com/therebellionreport/mp3s/Podcast_Two_Final.mp3" length="42711148" type="audio/mpeg"/>
             <itunes:subtitle>
                 In this episode, we go back and take a look at the standalone film Rogue One: A Star Wars Story
             </itunes:subtitle>
@@ -242,7 +242,7 @@
             <itunes:duration>29:39</itunes:duration>
             <itunes:episode>2</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+            <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         </item>
         <item>
             <title>Jedi Master Dave Filoni</title>
@@ -259,7 +259,7 @@
                     <p>In this episode we look at the final episode of Star Wars Rebels, and the trailer for the upcoming additions to the Clone Wars.</p>
                 ]]>
             </content:encoded>
-            <enclosure url="https://bennettapps.com/therebellionreport/mp3s/Podcast_One_Final.mp3" length="40884844" type="audio/mpeg"/>
+            <enclosure url="https://www.bennettapps.com/therebellionreport/mp3s/Podcast_One_Final.mp3" length="40884844" type="audio/mpeg"/>
             <itunes:subtitle>
                 In this episode we look at the final episode of Star Wars Rebels, and the trailer for the upcoming additions to the Clone Wars.
             </itunes:subtitle>
@@ -272,7 +272,7 @@
             <itunes:duration>28:22</itunes:duration>
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://bennettapps.com/therebellionreport/logo.jpg"/>
+            <itunes:image href="https://www.bennettapps.com/therebellionreport/logo.jpg"/>
         </item>
         
         
